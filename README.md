@@ -16,7 +16,7 @@ Le travail met l'accent sur l'expérimentation rigoureuse : chaque choix d'archi
 ## Membres du Groupe
 * **Étudiant 1 :** Justin Fransolet
 * **Étudiant 2 :** Thibault Theunissen
-* **Étudiant 3 :** [Prénom Nom]
+* **Étudiant 3 :** Pierre Delheusy
 
 ---
 
